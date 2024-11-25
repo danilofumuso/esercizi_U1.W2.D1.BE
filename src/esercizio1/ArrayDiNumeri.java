@@ -20,7 +20,7 @@ public class ArrayDiNumeri {
         }
 
         while (true) {
-            System.out.println("Inserisci un numero, tra 1 e 10, in posizione 2");
+            System.out.println("Inserisci un numero, tra 1 e 10, in posizione 2, inserisci 0 per uscire!");
             try {
                 int userNumber = scanner.nextInt();
                 if (userNumber == 0) {
@@ -32,7 +32,7 @@ public class ArrayDiNumeri {
                         System.out.println(intArray[i]);
                     }
                 } else {
-                    throw new NumeroMaggioreDieciException("Numero troppo grande");
+                    throw new NumeroMaggioreDieciException("Numero troppo grande"); // i throw vanno lanciati all'interno delle classi e non nel metodo main!
                 }
             } catch (NumeroMaggioreDieciException e) {
                 System.out.println(e);

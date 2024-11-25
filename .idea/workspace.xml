@@ -4,19 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3c12d96-8426-42b0-9b05-ee603cb3bc65" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Logging.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/esercizi.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/esercizio1/ArrayDiNumeri.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/esercizio1/NumeroMaggioreDieciException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/esercizio2/ConsumoAutomobile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/logback.xml" afterDir="false" />
+    <list default="true" id="b3c12d96-8426-42b0-9b05-ee603cb3bc65" name="Changes" comment="Esercizio 1 e 2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/esercizio1/ArrayDiNumeri.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/esercizio1/ArrayDiNumeri.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/esercizio2/ConsumoAutomobile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/esercizio2/ConsumoAutomobile.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,9 +26,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;danilofumuso&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/danilofumuso/esercizi_U1.W2.D1.BE.git&quot;,
+    &quot;accountId&quot;: &quot;3bc26c0d-d3f8-4e86-85c3-9a1af73e97a9&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2pLL44scexiUG94nfCL1hfmxLBe" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -45,19 +49,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ArrayDiNumeri.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/danil/OneDrive/Desktop/IntelliJ/Logging/Librerie/slf4j-api-1.7.9.jar",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2474701"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ArrayDiNumeri.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConsumoAutomobile.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/danil/OneDrive/Desktop/IntelliJ/Logging/Librerie/slf4j-api-1.7.9.jar&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2474701&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\danil\OneDrive\Desktop\IntelliJ\WEEK-2\U1.W2.D1\esercizi\src" />
@@ -72,6 +77,19 @@
       <option name="presentableId" value="Default" />
       <updated>1732540214884</updated>
     </task>
+    <task id="LOCAL-00001" summary="Esercizio 1 e 2">
+      <option name="closed" value="true" />
+      <created>1732549316063</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1732549316063</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Esercizio 1 e 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Esercizio 1 e 2" />
   </component>
 </project>
